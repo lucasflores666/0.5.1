@@ -1,0 +1,40 @@
+.Pendentes{
+background-color: #8fd14f;
+border-radius: 15px;
+padding: 5px;
+text-decoration: none;
+color:white;
+margin-bottom: 20px;
+}
+.concluida{
+background-color: #0CA789;
+border-radius: 15px;
+padding: 5px;
+text-decoration: none;
+color:white;
+margin-bottom: 20px;
+}
+.excluidas{
+background-color: #eb4045;
+border-radius: 15px;
+padding: 5px;
+text-decoration: none;
+color:white;
+margin-bottom: 20px;
+
+
+}
+html{
+  text-align: center;
+  
+} 
+ul{
+  list-style: none;
+  padding: 0;
+  margin: 20px;
+}
+li{
+  display: inline;
+  height: 10px;
+  
+}
